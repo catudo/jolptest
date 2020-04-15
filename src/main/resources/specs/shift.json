@@ -1,0 +1,26 @@
+[
+	{
+		"operation": "shift",
+		"spec": {
+			"data": {
+
+				"name": "name",
+				"code": "code",
+				"population": "population",
+				"updated_at": "current_date",
+				"latest_data": {
+					"deaths": "deaths",
+					"confirmed": "confirmed",
+					"recovered": "recovered",
+					"critical": "critical",
+					"calculated": {
+						"death_rate": "statistics.death_rate",
+						"recovery_rate": "statistics.recovery_rate",
+						"cases_per_million_population": "statistics.cases_per_million"
+					}
+				},
+				"timeline": "history"
+			}
+		}
+	}
+]

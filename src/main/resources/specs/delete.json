@@ -1,0 +1,18 @@
+[
+	{
+		"operation": "shift",
+		"spec": {
+			"data": {
+				"name": "name",
+				"population": "population",
+				"updated_at": "current_date",
+				"latest_data": {
+					"deaths": "deaths",
+					"confirmed": "confirmed",
+					"recovered": "recovered",
+					"critical": "critical"
+				}
+			}
+		}
+	}
+]

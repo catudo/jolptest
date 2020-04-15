@@ -1,0 +1,13 @@
+[
+	{
+		"operation": "shift",
+		"spec": {
+			"data": {
+				"code": "code",
+				"@population":"@name",
+			     "updated_at": "current_date",
+				"timeline": "timeline"
+			}
+		}
+	}
+]
